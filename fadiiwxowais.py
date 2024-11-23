@@ -1,1 +1,1 @@
-import fadiiwxowais.py
+import fadiiwxowais
