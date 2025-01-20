@@ -1,1 +1,1 @@
-import fadiiwxowais
+import fadiiwxowais.cpython-311.so
